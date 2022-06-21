@@ -1,0 +1,12 @@
+Algoritma Memasak Air
+
+1. Mulai
+2. Cari panci
+3. Ambil Panci
+4. Isi Panci dengan Air
+5. Cek Kompor
+6. Kompor hidup dan hidupkan
+7. Letakan Panci dan Panaskan Air
+8. Air Mendidih dan Matang
+9. Air siap dinikmati
+10. Selsai

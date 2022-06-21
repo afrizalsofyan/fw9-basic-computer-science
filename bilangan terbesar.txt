@@ -1,0 +1,7 @@
+algoritma bilangan terbesar
+
+1. mulai
+2. input nilai a dan b
+3. cek nilai, jika a > b maka print a 
+4. jika b > a, maka print b
+5. selesai

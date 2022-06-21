@@ -1,0 +1,8 @@
+Algoritma menukar air
+
+1. Mulai
+2. Ambil 1 gelas kosong
+3. Masukan air kopi kedalam gelas kosong
+4. Masukan air teh kedalam gelas kopi
+5. masukan air kopi ke dalam gelas teh
+6. selesai

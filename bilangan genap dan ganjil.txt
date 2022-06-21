@@ -1,0 +1,8 @@
+algoritma bilangan ganjil dan genap
+
+1. mulai
+2. input angka
+3. cek apakah angka modulos 2 == 0,
+	3.1 jika hasilnya true maka print angka bilangan genap
+	3.2 jika hasilnya false maka print angka bilangan ganjil
+4. selesai

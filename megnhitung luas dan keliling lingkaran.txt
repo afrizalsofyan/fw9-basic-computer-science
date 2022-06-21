@@ -1,0 +1,10 @@
+algoritma menghitung luas dan keliling lingkaran
+
+1. mulai
+2. input jari-jari lingkaran
+3. buat variabel phi dan isikan dengan kondisi: 
+	3.1. jika jari-jari dibagi 7 hasilnya 0, maka isikan phi dengan 22/7
+	3.2. jika jari-jari dibagi 7 hasilnya tidak 0, maka isikan phi dengan 3.14
+4. hitung luas lingkaran dengan operasi phi * r * r, kemudian print hasilnnya.
+5. hitung keliling lingkaran dengan operasi 2 * phi * r, kemudian print hasilnya
+6. selesai
